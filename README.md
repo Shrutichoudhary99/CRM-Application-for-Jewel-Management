@@ -22,7 +22,7 @@ Import the Salesforce components to your org.
 Follow the project documentation for setup steps.
 Demo
 Watch the demonstration video here.
-https://drive.google.com/file/d/1XxG9U3YRbeniGuz8KFqizmgy_HVc_U1Y/view?usp=sharing
+https://drive.google.com/file/d/1bodxefyZ2QAtHxgz0DImShgCxUmRKvZ1/view?usp=sharing
 
 Documentation
 --Project Documentation
